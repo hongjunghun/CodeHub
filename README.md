@@ -1,2 +1,2 @@
 # CodeHub
-This is website which you can use freely
+this is website
